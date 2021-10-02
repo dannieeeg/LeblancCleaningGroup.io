@@ -11,5 +11,5 @@ This was the final concept for the company's website.
 
 
 
-![lcglanding](https://user-images.githubusercontent.com/78777206/135733215-1ab82647-4667-44cb-8fd5-821ffe39bb39.png)
 ![ldgcontact](https://user-images.githubusercontent.com/78777206/135733219-28233c75-8649-4dbe-b747-2b517736da41.png)
+![Screenshot 2021-10-02 172435](https://user-images.githubusercontent.com/78777206/135733260-7aa8110d-be6d-44f5-87a7-56efbf652eb5.png)
